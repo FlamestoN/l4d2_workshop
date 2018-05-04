@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\w_models\eq_medkit/w_eq_medkit"
+$Selfillum "1"
+}

@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID 550
+addontitle "Optimized green fire"
+addonversion 1.0
+addonauthor "FlamestoN"
+addonDescription "Optimized, reduced green molotov fire, allowing to see through it, widening field of view. Suitable for VERSUS mode, giving advantages over other players. Not a cheat :P"
+}

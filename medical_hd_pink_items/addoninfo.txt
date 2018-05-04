@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID 550
+addontitle "Medical items"
+addonversion 1.0
+addonauthor "FlamestoN"
+addonURL0 "https://flameston.ru/"
+addonDescription "Glow pink items (adrenaline, medkit, pills)"
+}
